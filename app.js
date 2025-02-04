@@ -65,7 +65,7 @@ function sortearAmigo(){ // sortear o nome
         const resultadoSorteio = listaDeAmigo[sorteio]; // recupera o nome sorteado
         const removerNome = listaDeAmigo.indexOf(resultadoSorteio); // busca o indice do nome sorteado
 
-        resultado.innerHTML = `O vencedor do sorteio é ${resultadoSorteio}`; // imprime na tela o nome sorteado
+        resultado.innerHTML = `${resultadoSorteio}`; // imprime na tela o nome sorteado
 
         listaDeAmigo.splice(removerNome, 1); //remove o amigo sorteado da lista 
 

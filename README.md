@@ -4,12 +4,12 @@
  
 </p>
 
-Este é um projeto simples criado com o intuito de facilitar a organização de sorteio entre amigos. Desenvolvido com **HTML, CSS e JavaScript**, este projeto é funcional e permite que você adicione nomes de possiveis participantes, visualize estes nomes em uma lista e realize o sorteio de forma aleatorio.
+Este é um projeto simples criado com o intuito de facilitar a organização de sorteio entre amigos. Desenvolvido com **HTML, CSS e JavaScript**, este projeto é funcional e permite que você adicione nomes de possiveis participantes, visualize estes nomes em uma lista e realize o sorteio de forma aleatória.
 
 ## 🔨 Funcionalidades
 
 - **Adicionar Amigos:** Um nome será adicionado a lista
-- **Sortear Amigos:** Será realizado um sorteio aleatorio entre os nomes adicionados.
+- **Sortear Amigos:** Será realizado um sorteio aleatório entre os nomes adicionados.
 - **Limpar Tudo:** O campo de texto e a lista será apagado.
 
 ## 📋 Como Usar
